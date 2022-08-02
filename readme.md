@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Front-end frameworks, MongoDB, SQL**
 
-- 👨‍💻 All of my projects are available at [https://eric-ryan-portfolio.herokuapp.com](https://eric-ryan-portfolio.herokuapp.com)
+- 👨‍💻 All of my projects are available at [my portfolio](https://eric-ryan-portfolio.herokuapp.com)
 
 - ⚡ Fun fact **I am a minority owner of the Green Bay Packers**
 
